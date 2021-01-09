@@ -49,7 +49,7 @@ Finally, I plotted the hotels on top of the humidity heatmap I made earlier, wit
 
 #### Instructions to Run Code
 
-- Save the repository in your desired location, then cd into that directory in git bash (or terminal if OS user).
+- Save this repository in your desired location, then cd into that directory in git bash (or terminal if OS user).
 - Type jupyter notebook into terminal.
 - Once in jupyter notebook, open each .ipynb file and run through each section of the script.
 ###### Note**: Make sure to enter your own API Key for VacationPy. You can create an API key by going to the Google API Console.
